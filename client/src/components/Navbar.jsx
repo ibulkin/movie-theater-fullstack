@@ -48,7 +48,7 @@ const Navbar = () => {
 										onClick={() => setOpen(true)}
 									/>
 								</Item>
-								<Avatar src={currentUser.img} />
+								<Avatar src={currentUser?.img} />
 								{currentUser.name}
 							</User>
 							<Item>
