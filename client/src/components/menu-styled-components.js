@@ -6,6 +6,7 @@ export const Container = styled.div`
 	height: 100;
 	color: ${({ theme }) => theme.text};
 	font-size: 14px;
+	height: 100vh;
 	position: sticky;
 	top: 0;
 `
@@ -15,7 +16,7 @@ export const Wrapper = styled.div`
 export const Logo = styled.div`
 	display: flex;
 	align-items: center;
-	gap: 5px;
+	gap: 2px;
 	font-weight: bold;
 	margin-bottom: 25px;
 `
