@@ -13,4 +13,4 @@ For your convenience, the site implements authorization through Google.
 
 Technologies used on the site:
 
-
+Express, JsonWebToken, MongoDB, Redux, React, NodeJs, Material Icons, Firebase, Axios
